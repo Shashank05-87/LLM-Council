@@ -23,13 +23,19 @@ Build a domain-agnostic, research-inspired system
 System Architecture:-
 
 User Query
+    
      ↓
+     
 LLM Agent 1 (Analytical)
 LLM Agent 2 (Concise)
 LLM Agent 3 (Detailed)
+    
      ↓
+     
 Judge LLM (Evaluation & Selection)
+    
      ↓
+     
 Final Consensus Answer
 
 Key Components:-
